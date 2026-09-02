@@ -35,5 +35,5 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julialves1&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julialves1&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julialves1&layout=compact&theme=dracula&hide=html,css" />
 </p>
