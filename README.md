@@ -5,7 +5,7 @@
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/seu-usuario)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/julialves1)
 
 ---
 
@@ -34,6 +34,6 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julialves1&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julialves1&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
