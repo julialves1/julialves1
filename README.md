@@ -31,8 +31,25 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas e Desempenho
 
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=julialves1&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <!-- Adaptação Automática de Tamanho e Responsividade -->
+  <a href="https://github.com/julialves1">
+    <picture>
+      <!-- Imagem para Tema Escuro / Mobile & Desktop Responsivo -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=julialves1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+      <!-- Imagem para Tema Claro -->
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=julialves1&show_icons=true&theme=default&hide_border=true&count_private=true">
+      <!-- Fallback Responsivo com SVG Nativo -->
+      <img width="85%" src="https://github-readme-stats-fast.vercel.app/api?username=julialves1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Júlia" />
+    </picture>
+  </a>
+
+  <br /><br />
+
+  <!-- Card do Streak (Sequência de Código) Responsivo -->
+  <a href="https://github.com/julialves1">
+    <img width="85%" src="https://streak-stats.demolab.com?user=julialves1&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições" />
+  </a>
+</div>
