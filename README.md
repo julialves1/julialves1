@@ -1,4 +1,8 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Bem-vindo(a)%20ao%20meu%20GitHub!&fontSize=35&animation=fadeIn" alt="Header Banner" />
+</div>
 
+<br />
 # Olá, eu sou Júlia Alves 👋
 ### Estudante de Engenharia da Computação pela Ufop 📚 
 ### Técnica em Desenvolvimento de Sistemas
@@ -30,26 +34,28 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-## 📊 Estatísticas e Desempenho
+## 📊 Estatísticas e Linguagens
 
 <div align="center">
-  <!-- Adaptação Automática de Tamanho e Responsividade -->
+
+  <!-- CARD 1: Estatísticas Gerais -->
   <a href="https://github.com/julialves1">
     <picture>
-      <!-- Imagem para Tema Escuro / Mobile & Desktop Responsivo -->
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=julialves1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-      <!-- Imagem para Tema Claro -->
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=julialves1&show_icons=true&theme=default&hide_border=true&count_private=true">
-      <!-- Fallback Responsivo com SVG Nativo -->
-      <img width="85%" src="https://github-readme-stats-fast.vercel.app/api?username=julialves1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Júlia" />
+      <img width="85%" src="https://github-readme-stats-fast.vercel.app/api?username=julialves1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
     </picture>
   </a>
 
   <br /><br />
 
-  <!-- Card do Streak (Sequência de Código) Responsivo -->
+  <!-- CARD 2: Linguagens mais Usadas (C, Python, etc.) -->
   <a href="https://github.com/julialves1">
-    <img width="85%" src="https://streak-stats.demolab.com?user=julialves1&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=julialves1&layout=compact&theme=tokyonight&hide_border=true&hide=html,css">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=julialves1&layout=compact&theme=default&hide_border=true&hide=html,css">
+      <img width="85%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=julialves1&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Linguagens Mais Utilizadas" />
+    </picture>
   </a>
+
 </div>
