@@ -17,6 +17,7 @@
 </p>
 
 ## 📌 Sobre Mim
+<img align="right" width="180" src="./profile.gif.gif" alt="GIF Animação">
 
 - 🎓 **Cursando Engenharia da Computação**
 - 💻 **Atualmente focada em:** Linguagem C/C++, Estruturas de Dados e Arquitetura de Computadores
@@ -24,6 +25,7 @@
 - 🌍 **Hobbies:** Amo cafés, cachorros, assistir séries e tocar violoncello
 - 📬 **Como me encontrar:** <a href="mailto:juliaralves0@gmail.com">juliaralves0@gmail.com</a>
 
+<br clear="right"/>
 ---
 
 ## 🛠️ Ferramentas & Ambiente
