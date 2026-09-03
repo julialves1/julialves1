@@ -1,61 +1,50 @@
+<!-- Tradução de Idioma -->
+<p align="right">
+  <a href="README.md">🌐 Português</a> | 
+  <a href="README.en.md">🇬🇧 English</a>
+</p>
+
+<!-- Cabeçalho Animado -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Bem-vindo(a)%20ao%20meu%20GitHub!&fontSize=35&animation=fadeIn" alt="Header Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Bem-vindo(a)%20ao%20meu%20GitHub!&fontSize=32&animation=fadeIn" alt="Header Banner" />
 </div>
 
 <br />
+
 # Olá, eu sou Júlia Alves 👋
-### Estudante de Engenharia da Computação pela Ufop 📚 
-### Técnica em Desenvolvimento de Sistemas
 
+### Graduanda em Engenharia da Computação
+#### Técnica em Desenvolvimento de Sistemas
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/julialves1)
+<p align="left">
+  <a href="https://linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/julialves1"><img src="https://img.shields.io/badge/PORTFOLIO-100000?style=for-the-badge&logo=GitHub&logoColor=white" alt="Portfolio"></a>
+</p>
 
 ---
 
 ## 📌 Sobre Mim
-- 🎓 Cursando **Engenharia da Computação**
-- 💻 Atualmente focada em **Linguagem C, Estruturas de Dados e Arquitetura de Computadores**
-- 🛠️ Interesses: Sistemas Embarcados, Desenvolvimento de Software, IoT e Circuitos Digitais
-- 📬 Como me encontrar: `juliaralves0@gmail.com`
+
+- 🎓 **Cursando Engenharia da Computação**
+- 💻 **Atualmente focada em:** Linguagem C, Estruturas de Dados e Arquitetura de Computadores
+- 🛠️ **Interesses:** Sistemas Embarcados, Desenvolvimento de Software, IoT e Circuitos Digitais
+- 📬 **Como me encontrar:** `juliaralves0@gmail.com`
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Ferramentas & Ambiente
 
-### Linguagens de Programação
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Ferramentas & Ambiente
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+</p>
 
 ---
-## 📊 Estatísticas e Linguagens
 
-<div align="center">
+## 📊 Estatísticas e Uso de Linguagens
 
-  <!-- CARD 1: Estatísticas Gerais -->
-  <a href="https://github.com/julialves1">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=julialves1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=julialves1&show_icons=true&theme=default&hide_border=true&count_private=true">
-      <img width="85%" src="https://github-readme-stats-fast.vercel.app/api?username=julialves1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-    </picture>
-  </a>
-
-  <br /><br />
-
-  <!-- CARD 2: Linguagens mais Usadas (C, Python, etc.) -->
-  <a href="https://github.com/julialves1">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=julialves1&layout=compact&theme=tokyonight&hide_border=true&hide=html,css">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=julialves1&layout=compact&theme=default&hide_border=true&hide=html,css">
-      <img width="85%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=julialves1&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Linguagens Mais Utilizadas" />
-    </picture>
-  </a>
-
-</div>
+<p align="center">
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=julialves1&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=julialves1&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&locale=pt-br" alt="Linguagens Mais Utilizadas" />
+</p>
