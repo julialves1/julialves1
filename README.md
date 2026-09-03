@@ -1,6 +1,7 @@
 <!-- Cabeçalho Animado (Gradiente Roxo) -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=purple&height=170&section=header&text=Bem-vindo(a)%20ao%20meu%20GitHub!&fontSize=32&animation=fadeIn" alt="Header Banner" />
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:8e2de2&height=170&section=header&text=Bem-vindo(a)%20ao%20meu%20GitHub!&fontSize=32&animation=fadeIn" alt="Header Banner" />
+
 </div>
 
 # Olá, eu sou Júlia Alves 👋
@@ -20,6 +21,7 @@
 - 🎓 **Cursando Engenharia da Computação**
 - 💻 **Atualmente focada em:** Linguagem C/C++, Estruturas de Dados e Arquitetura de Computadores
 - 🛠️ **Interesses:** Sistemas Embarcados, Desenvolvimento de Software, IoT e Circuitos Digitais
+- 🌍 **Hobbies:** Amo cafés, cachorros, assistir séries e tocar violoncello
 - 📬 **Como me encontrar:** <a href="mailto:juliaralves0@gmail.com">juliaralves0@gmail.com</a>
 
 ---
