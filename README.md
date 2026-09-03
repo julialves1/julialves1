@@ -1,34 +1,26 @@
-<!-- Tradução de Idioma -->
-<p align="right">
-  <a href="README.md">🌐 Português</a> | 
-  <a href="README.en.md">🇬🇧 English</a>
-</p>
-
-<!-- Cabeçalho Animado -->
+<!-- Cabeçalho Animado (Gradiente Roxo) -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Bem-vindo(a)%20ao%20meu%20GitHub!&fontSize=32&animation=fadeIn" alt="Header Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=purple&height=170&section=header&text=Bem-vindo(a)%20ao%20meu%20GitHub!&fontSize=32&animation=fadeIn" alt="Header Banner" />
 </div>
-
-<br />
 
 # Olá, eu sou Júlia Alves 👋
 
-### Graduanda em Engenharia da Computação
-#### Técnica em Desenvolvimento de Sistemas
+<p style="margin-top: -10px; line-height: 1.3;">
+  <b>Graduanda em Engenharia da Computação pela Ufop</b><br>
+  <span style="color: #888;">Técnica em Desenvolvimento de Sistemas</span>
+</p>
 
 <p align="left">
   <a href="https://linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/julialves1"><img src="https://img.shields.io/badge/PORTFOLIO-100000?style=for-the-badge&logo=GitHub&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:juliaralves0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
-
----
 
 ## 📌 Sobre Mim
 
 - 🎓 **Cursando Engenharia da Computação**
-- 💻 **Atualmente focada em:** Linguagem C, Estruturas de Dados e Arquitetura de Computadores
+- 💻 **Atualmente focada em:** Linguagem C/C++, Estruturas de Dados e Arquitetura de Computadores
 - 🛠️ **Interesses:** Sistemas Embarcados, Desenvolvimento de Software, IoT e Circuitos Digitais
-- 📬 **Como me encontrar:** `juliaralves0@gmail.com`
+- 📬 **Como me encontrar:** <a href="mailto:juliaralves0@gmail.com">juliaralves0@gmail.com</a>
 
 ---
 
