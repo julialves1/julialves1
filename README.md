@@ -1,6 +1,6 @@
 <!-- Cabeçalho Animado (Gradiente Roxo) -->
 <div align="center">
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:8e2de2&height=170&section=header&text=Bem-vindo(a)%20ao%20meu%20GitHub!&fontSize=32&animation=fadeIn" alt="Header Banner" />
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ff007f&height=170&section=header&text=Bem-vindo(a)%20ao%20meu%20GitHub!&fontSize=32&animation=fadeIn" alt="Header Banner" />
 
 </div>
 
